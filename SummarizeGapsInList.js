@@ -1,6 +1,7 @@
 /*
  * Find the first character in a string that doesn't repeat.
  * Catch: Smallest code in terms of code size.
+ * Run as: node SummarizeGapsInList.js
  */
 
 function g(a) {
